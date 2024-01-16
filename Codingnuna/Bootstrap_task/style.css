@@ -1,0 +1,19 @@
+.btn-outline-success{
+  color: black;
+  border-color: black;
+  text-weight: bold;
+}
+
+.btn-outline-success:hover{
+  transform:scale(1.1);
+  background-color: black;
+  color: white;
+  border-line: black;
+}
+
+.ads-lines{
+  display:flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+}
