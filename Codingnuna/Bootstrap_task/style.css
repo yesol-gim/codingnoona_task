@@ -1,14 +1,14 @@
 .btn-outline-success{
   color: black;
   border-color: black;
-  text-weight: bold;
+  font-weight: bold;
 }
 
 .btn-outline-success:hover{
   transform:scale(1.1);
   background-color: black;
   color: white;
-  border-line: black;
+  border: black;
 }
 
 .ads-lines{
